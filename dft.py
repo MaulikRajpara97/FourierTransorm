@@ -4,7 +4,6 @@
 #course: CS 827
 #date: 2018/10/29 
 #assignment #2
-#description: 
 #--------------------------------------------------------------------------------------------
 import pandas as pd
 import numpy as np
